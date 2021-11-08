@@ -111,6 +111,69 @@ Segue abaixo a lista com os códigos:
 
 >
 
-27. **Exercício Python 027: Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/27.py) 
+27. **Exercício Python 027: Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/27.py)
 
+>
 
+28. **Exercício Python 028: Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/28.py) 
+
+29. **Exercício Python 029: Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/29.py) 
+
+30. **Exercício Python 030: Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/30.py) 
+
+31. **Exercício Python 031: Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/31.py) 
+  
+32. **Exercício Python 032: Faça um programa que leia um ano qualquer e mostre se ele é bissexto.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/31.py)
+    
+33. **Exercício Python 033: Faça um programa que leia três números e mostre qual é o maior e qual é o menor.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/32.py)
+ 
+34. **Exercício Python 034: Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/33.py)
+
+35. **Exercício Python 035: Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/34.py)
+
+36. **Exercício Python 036: Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/35.py)
+
+37. **Exercício Python 037: Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/36.py)
+
+38. **Exercício Python 038: Escreva um programa que leia dois números inteiros e compare-os. mostrando na tela uma mensagem:**
+**- O primeiro valor é maior**
+**- O segundo valor é maior**
+**- Não existe valor maior, os dois são iguais** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/37.py)
+
+39. **Exercício Python 039: Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/38.py)
+
+40. **Exercício Python 040: Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:**
+**- Média abaixo de 5.0: REPROVADO**
+**- Média entre 5.0 e 6.9: RECUPERAÇÃO**
+**- Média 7.0 ou superior: APROVADO** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/39.py)
+
+41. **Exercício Python 041: A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:**
+**- Até 9 anos: MIRIM**
+**- Até 14 anos: INFANTIL**
+**- Até 19 anos: JÚNIOR**
+**- Até 25 anos: SÊNIOR**
+**- Acima de 25 anos: MASTER** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/41.py)
+
+42. **Exercício Python 042: Refaça o DESAFIO 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:**
+**- EQUILÁTERO: todos os lados iguais**
+**- ISÓSCELES: dois lados iguais, um diferente**
+**- ESCALENO: todos os lados diferentes** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/42.py)
+
+43. **Exercício Python 043: Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de Massa Corporal (IMC) e mostre seu status, de acordo com a tabela abaixo:**
+**- IMC abaixo de 18,5: Abaixo do Peso**
+**- Entre 18,5 e 25: Peso Ideal**
+**- 25 até 30: Sobrepeso**
+**- 30 até 40: Obesidade**
+**- Acima de 40: Obesidade Mórbida** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/43.py)
+
+44. **Exercício Python 044: Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:**
+**- à vista dinheiro/cheque: 10% de desconto**
+**- à vista no cartão: 5% de desconto**
+**- em até 2x no cartão: preço formal**
+**- 3x ou mais no cartão: 20% de juros** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/44.py)
+
+45. **Exercício Python 045: Crie um programa que faça o computador jogar Jokenpô com você.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/45.py)
+
+46. **Exercício Python 046: Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/46.py)
+
+47. **Exercício Python 047: Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.** ---> [Código](https://github.com/VicktzZ/desafios-python/blob/master/47.py)
